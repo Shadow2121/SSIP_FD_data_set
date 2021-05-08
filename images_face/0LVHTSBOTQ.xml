@@ -1,0 +1,26 @@
+<annotation>
+	<folder>faces</folder>
+	<filename>0LVHTSBOTQ.jpg</filename>
+	<path>D:\SSIP\TFODCourse\Tensorflow\workspace\images\faces\0LVHTSBOTQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>130</ymin>
+			<xmax>821</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>

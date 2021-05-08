@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>WhatsApp Image 2021-05-06 at 5.59.14 PM.jpeg</filename>
+	<path>D:\SSIP\TFODCourse\Tensorflow\workspace\images\test\WhatsApp Image 2021-05-06 at 5.59.14 PM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>959</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>2</ymin>
+			<xmax>687</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

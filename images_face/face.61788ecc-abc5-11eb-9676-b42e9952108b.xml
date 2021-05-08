@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>face.61788ecc-abc5-11eb-9676-b42e9952108b.jpg</filename>
+	<path>D:\SSIP\TFODCourse\Tensorflow\workspace\images\test\face.61788ecc-abc5-11eb-9676-b42e9952108b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>198</ymin>
+			<xmax>452</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>
