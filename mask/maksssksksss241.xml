@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mask</folder>
+	<filename>maksssksksss241.png</filename>
+	<path>C:\Users\mihir\OneDrive\Desktop\mask\maksssksksss241.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>56</ymin>
+			<xmax>242</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>
