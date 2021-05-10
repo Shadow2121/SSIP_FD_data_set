@@ -31,4 +31,4 @@ Now you can see the UI like bellow.
 
 ![ui](https://user-images.githubusercontent.com/61907131/117663764-a7ad7f00-b1be-11eb-866a-85b7252b9b43.PNG)
 
-Now select the folder with imgs and start tagging.
+Now click on 'Open Dir', select the folder with imgs and start tagging.
