@@ -1,0 +1,26 @@
+<annotation>
+	<folder>side</folder>
+	<filename>A_02_+80.Jpg</filename>
+	<path>C:\Users\mihir\OneDrive\Desktop\side\A_02_+80.Jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>99</ymin>
+			<xmax>470</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
